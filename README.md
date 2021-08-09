@@ -1,2 +1,4 @@
 # cssProj2
-css practice project
+A simple Static CSS website 
+
+live link : shopee001.netlify.app
